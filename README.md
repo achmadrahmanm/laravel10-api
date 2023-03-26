@@ -11,7 +11,7 @@
 <img src="https://github.com/achmadrahmanm/laravel10-api/blob/master/public/finish-app.JPG" />
 
 <p>Database look like</p>
-<img src="https://github.com/achmadrahmanm/laravel10-api/blob/master/public/finish-msql.JPG" />
+<img src="https://github.com/achmadrahmanm/laravel10-api/blob/master/public/finish-mysql.JPG" />
 
 ##############################################################################################################
 
