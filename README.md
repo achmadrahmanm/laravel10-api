@@ -1,4 +1,3 @@
-<p>php artisan serve</p>
 <p>1.Run git clone </p>
 <p>2.Run composer install</p>
 <p>3.Run cp .env.example .env</p>
